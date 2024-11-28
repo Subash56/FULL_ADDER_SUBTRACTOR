@@ -50,7 +50,7 @@ FULL SUBTRACTOR:
  3. Generate the RTL schematic and save the logic diagram.
  4. Create nodes for inputs and outputs to generate the timing diagram.
  5. For different input combinations generate the timing diagram
-## PROGRAM;
+## PROGRAM:
 ~~~
 module Fulladder(a,b,c,sum,carry,diff,borrow);
 input a,b,c;
