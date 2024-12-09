@@ -1,7 +1,6 @@
-# FULL_ADDER_SUBTRACTOR
 ### NAME:SUBASH B
 ### REG NO:24900843
-### EXP NO:4 FULL ADDER AND FULL SUBTRACTOR
+## EXP NO:4 FULL ADDER AND FULL SUBTRACTOR
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 ##AIM:
 
