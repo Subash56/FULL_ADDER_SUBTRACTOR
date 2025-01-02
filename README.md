@@ -1,8 +1,7 @@
 ### NAME:SUBASH B
 ### REG NO:24900843
-## EXP NO:4 FULL ADDER AND FULL SUBTRACTOR
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
-##AIM:
+## EXP NO:4 IMPLEMENTATION OF FULL ADDER AND FULL SUBTRACTOR CIRCUIT
+## AIM:
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
@@ -12,7 +11,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Software – Quartus prime
 
-## FULL ADDER AND FULL SUBTRACTOR
 
 ## FULL ADDER
 
